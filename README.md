@@ -1,4 +1,8 @@
 # vue_weather
+...
+Membuat aplikasi cuaca mobile sederhana menggunakan Vue Js dan RESTful API cuaca
+![Document](https://user-images.githubusercontent.com/55887819/75692527-acd08d80-5ce0-11ea-9063-1062ebbe0d83.png)
+...
 
 ## Project setup
 ```
